@@ -7,4 +7,9 @@ I use Visual Studio Code to write code, and I use Github and Gitlab to host it.
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=devshubam&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=devshubam&show_icons=true&theme=tokyonight)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevShubam)](https://github.com/anuraghazra/github-readme-stats)
+
