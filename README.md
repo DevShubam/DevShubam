@@ -9,6 +9,9 @@ NOTE: "Most Used Languages" is not a representation of my best language, it is i
 
 ## Stats
 
+![](https://komarev.com/ghpvc/?username=DevShubam&color=blue)
+
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=devshubam&show_icons=true&theme=tokyonight)
 
 
