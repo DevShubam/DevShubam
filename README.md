@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 ### I am Shubam Sharma.
-I am a 13 year old developer and filterlist maintainer from Ontario, Canada.
-
 I use Visual Studio Code to write code, and I use Github and Gitlab to host it.
 
 I make things like: Websites, Browser Extensions, Userscripts, AdBlock Filters and more.
