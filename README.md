@@ -9,5 +9,5 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,github,gitlab,vscode)
 
 ## Learning
-![Learning](https://skillicons.dev/icons?i=js,c,c++,java)
+![Learning](https://skillicons.dev/icons?i=js,c,cpp,java)
 
